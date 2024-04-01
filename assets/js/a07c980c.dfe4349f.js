@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfhsdocs=self.webpackChunkfhsdocs||[]).push([[1446],{6571:s=>{s.exports=JSON.parse('{"label":"idtype","permalink":"/blog/tags/idtype","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
