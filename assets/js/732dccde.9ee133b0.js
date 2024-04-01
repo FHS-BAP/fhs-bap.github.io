@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfhsdocs=self.webpackChunkfhsdocs||[]).push([[92],{1938:s=>{s.exports=JSON.parse('{"label":"Training","permalink":"/blog/tags/training","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);
