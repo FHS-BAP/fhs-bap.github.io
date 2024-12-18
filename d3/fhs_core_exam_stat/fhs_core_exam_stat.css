@@ -1,0 +1,142 @@
+/* Root variable styles for easy customization */
+:root {
+    /* Axis styles */
+    --axis-ticks-color: #f5f555;
+    --axis-ticks-size: 14px;
+    --axis-label-color: #adadad;
+    --axis-lable-size: 16px;
+
+    /* Legend styles */
+    --legend-background-color: rgba(0, 0, 0, 0.6);
+    --legend-text-color: white;
+}
+
+/* Define styles for the summary-var class */
+.summary-var {
+    margin-right: 8px; /* Space between checkbox and label text */
+    vertical-align: middle; /* Align checkbox with text */
+    accent-color: rgb(156, 37, 37); /* Customize the checkbox color */
+  }
+
+/* -------------------- CONTROLS ------------------------ */
+#controls {
+    margin-bottom: 10px;
+}
+#controls label {
+    margin-right: 15px;
+}
+
+/* General body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    /* background-color: none; */
+
+}
+
+/* SVG container styles */
+svg {
+    border: 1px solid #ccc;
+    background-color: black;
+}
+
+/* Tooltip styles */
+.tooltip {
+    font-size: 12px;
+    background-color: #f5edab;
+    border: 1px solid #ccc;
+    padding: 8px;
+    border-radius: 4px;
+    position: absolute;
+    visibility: hidden;
+    /* Hidden by default, shown on hover */
+}
+
+/* Title of the tooltip - bold and centered */
+.tooltip-title {
+    font-weight: bold;
+    text-align: center;
+}
+
+/* General text inside tooltip (not bold and not centered) */
+.tooltip .tooltip-title+* {
+    font-weight: normal;
+    text-align: left;
+}
+
+/* Axis styles */
+.axis {
+    /* Axis text styling (for ticks) */
+    /*
+    The problem occurs because the text selector within the .axis class 
+    in the CSS applies to all text elements, including both axis ticks 
+    and axis labels. As a result, the axis-label styles are overwritten 
+    by the broader .axis text styles.
+    */
+    /* text { */
+
+    /* Axis tick styling (specific to ticks) */
+    text:not(.axis-label) {
+        /* Exclude elements with the 'axis-label' class */
+        fill: var(--axis-ticks-color);
+        font-size: var(--axis-ticks-size);
+    }
+
+    /* Axis lines and path styling */
+    line,
+    path {
+        stroke: white;
+    }
+}
+
+/* Specific styles for axis labels */
+.axis-label {
+    fill: var(--axis-label-color);
+    /* Set the label text color to white */
+    font-size: var(--axis-lable-size);
+    /* Ensure font size consistency */
+    font-weight: bold;
+    /* Optional: Make label bold for emphasis */
+}
+
+/* Legend styles */
+.legend {
+    background-color: var(--legend-background-color);
+    padding: 5px;
+    border-radius: 5px;
+
+    /* Legend text styling */
+    text {
+        font-size: 12px;
+        fill: var(--legend-text-color);
+    }
+
+    /* Legend rect styling */
+    .legend rect {
+        width: 12px;
+        height: 12px;
+    }
+}
+
+/* Line styles */
+path.line {
+    fill: none;
+    stroke-width: 2px;
+}
+
+/* Circle styles */
+circle {
+    stroke: white;
+    stroke-width: 1px;
+}
+
+/* Instruction box styles */
+.instruction-box {
+    fill: lightcyan;
+    stroke: black;
+    rx: 5px;
+    ry: 5px;
+    font-size: 14px;
+}
+
+/* -------------------- END ------------------------ */

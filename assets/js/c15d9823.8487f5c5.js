@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfhsdocs=self.webpackChunkfhsdocs||[]).push([[8146],{9328:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/blog","page":1,"postsPerPage":8,"totalPages":1,"totalCount":8,"blogDescription":"FHS-BAP","blogTitle":"Training"}}')}}]);

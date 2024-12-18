@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Line Chart with D3.js</title>
+  <link rel="stylesheet" href="fhs_core_exam_stat.css">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+
+<body>
+  <center>
+    <div id="controls">
+      🎮 <strong>Filters:&nbsp;</strong>
+      <label><input type="checkbox" class="summary-var" value="coreExam" checked> Core Exam</label>
+      <label><input type="checkbox" class="summary-var" value="sampleSize" checked> Sample size</label>
+      <label><input type="checkbox" class="summary-var" value="femalePercentage" checked> Female (%)</label>
+      <label><input type="checkbox" class="summary-var" value="ageMeanRange" checked> Age</label>
+      <label><input type="checkbox" class="summary-var" value="dateRange" checked> Date</label>
+    </div>
+
+    <div id="chart">
+      <script src="fhs_core_exam_stat.js"></script>
+    </div>
+
+    <h3 style="color: rgb(156, 37, 37);">Figure 1. FHS Core Exams Follow-up Timeline</h3>
+
+  </center>
+</body>
+
+</html>

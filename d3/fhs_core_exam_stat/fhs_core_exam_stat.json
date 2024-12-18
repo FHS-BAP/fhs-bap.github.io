@@ -1,0 +1,562 @@
+[
+    {
+        "idtype": 0,
+        "exam": 1,
+        "n": 5209,
+        "female": 55.2,
+        "range_age_core": "28-74",
+        "avg_age_core": 44,
+        "range_date_core": "1948-1953",
+        "median_date_core": 1950
+    },
+    {
+        "idtype": 0,
+        "exam": 2,
+        "n": 4792,
+        "female": 55.5,
+        "range_age_core": "31-65",
+        "avg_age_core": 46.2,
+        "range_date_core": "1950-1955",
+        "median_date_core": 1952
+    },
+    {
+        "idtype": 0,
+        "exam": 3,
+        "n": 4416,
+        "female": 55.6,
+        "range_age_core": "32-67",
+        "avg_age_core": 48,
+        "range_date_core": "1952-1956",
+        "median_date_core": 1954
+    },
+    {
+        "idtype": 0,
+        "exam": 4,
+        "n": 4541,
+        "female": 55.8,
+        "range_age_core": "34-69",
+        "avg_age_core": 49.8,
+        "range_date_core": "1954-1958",
+        "median_date_core": 1956
+    },
+    {
+        "idtype": 0,
+        "exam": 5,
+        "n": 4421,
+        "female": 56.1,
+        "range_age_core": "37-70",
+        "avg_age_core": 51.7,
+        "range_date_core": "1956-1960",
+        "median_date_core": 1958
+    },
+    {
+        "idtype": 0,
+        "exam": 6,
+        "n": 4259,
+        "female": 56.3,
+        "range_age_core": "38-72",
+        "avg_age_core": 53.5,
+        "range_date_core": "1958-1963",
+        "median_date_core": 1960
+    },
+    {
+        "idtype": 0,
+        "exam": 7,
+        "n": 4191,
+        "female": 56.8,
+        "range_age_core": "40-74",
+        "avg_age_core": 55.4,
+        "range_date_core": "1960-1964",
+        "median_date_core": 1962
+    },
+    {
+        "idtype": 0,
+        "exam": 8,
+        "n": 4030,
+        "female": 56.8,
+        "range_age_core": "42-76",
+        "avg_age_core": 57.2,
+        "range_date_core": "1962-1966",
+        "median_date_core": 1964
+    },
+    {
+        "idtype": 0,
+        "exam": 9,
+        "n": 3833,
+        "female": 57,
+        "range_age_core": "44-78",
+        "avg_age_core": 59,
+        "range_date_core": "1964-1968",
+        "median_date_core": 1966
+    },
+    {
+        "idtype": 0,
+        "exam": 10,
+        "n": 3595,
+        "female": 57.1,
+        "range_age_core": "46-80",
+        "avg_age_core": 60.8,
+        "range_date_core": "1966-1970",
+        "median_date_core": 1968
+    },
+    {
+        "idtype": 0,
+        "exam": 11,
+        "n": 2955,
+        "female": 57.8,
+        "range_age_core": "49-81",
+        "avg_age_core": 62.2,
+        "range_date_core": "1968-1971",
+        "median_date_core": 1970
+    },
+    {
+        "idtype": 0,
+        "exam": 12,
+        "n": 3261,
+        "female": 57.7,
+        "range_age_core": "50-83",
+        "avg_age_core": 64.1,
+        "range_date_core": "1971-1974",
+        "median_date_core": 1972
+    },
+    {
+        "idtype": 0,
+        "exam": 13,
+        "n": 3133,
+        "female": 58.1,
+        "range_age_core": "52-85",
+        "avg_age_core": 65.8,
+        "range_date_core": "1972-1976",
+        "median_date_core": 1974
+    },
+    {
+        "idtype": 0,
+        "exam": 14,
+        "n": 2871,
+        "female": 58.9,
+        "range_age_core": "54-88",
+        "avg_age_core": 67.5,
+        "range_date_core": "1975-1978",
+        "median_date_core": 1976
+    },
+    {
+        "idtype": 0,
+        "exam": 15,
+        "n": 2632,
+        "female": 60,
+        "range_age_core": "56-89",
+        "avg_age_core": 69,
+        "range_date_core": "1977-1979",
+        "median_date_core": 1978
+    },
+    {
+        "idtype": 0,
+        "exam": 16,
+        "n": 2351,
+        "female": 60.3,
+        "range_age_core": "58-91",
+        "avg_age_core": 70.4,
+        "range_date_core": "1979-1982",
+        "median_date_core": 1980
+    },
+    {
+        "idtype": 0,
+        "exam": 17,
+        "n": 2179,
+        "female": 60.9,
+        "range_age_core": "60-93",
+        "avg_age_core": 72.1,
+        "range_date_core": "1981-1984",
+        "median_date_core": 1982
+    },
+    {
+        "idtype": 0,
+        "exam": 18,
+        "n": 1825,
+        "female": 60.6,
+        "range_age_core": "62-94",
+        "avg_age_core": 73.5,
+        "range_date_core": "1983-1985",
+        "median_date_core": 1984
+    },
+    {
+        "idtype": 0,
+        "exam": 19,
+        "n": 1541,
+        "female": 61.5,
+        "range_age_core": "64-96",
+        "avg_age_core": 74.8,
+        "range_date_core": "1985-1988",
+        "median_date_core": 1986
+    },
+    {
+        "idtype": 0,
+        "exam": 20,
+        "n": 1401,
+        "female": 61.8,
+        "range_age_core": "67-97",
+        "avg_age_core": 76.6,
+        "range_date_core": "1986-1990",
+        "median_date_core": 1989
+    },
+    {
+        "idtype": 0,
+        "exam": 21,
+        "n": 1319,
+        "female": 64.8,
+        "range_age_core": "68-99",
+        "avg_age_core": 78.4,
+        "range_date_core": "1988-1992",
+        "median_date_core": 1990
+    },
+    {
+        "idtype": 0,
+        "exam": 22,
+        "n": 1166,
+        "female": 65.3,
+        "range_age_core": "70-101",
+        "avg_age_core": 79.9,
+        "range_date_core": "1990-1994",
+        "median_date_core": 1992
+    },
+    {
+        "idtype": 0,
+        "exam": 23,
+        "n": 1026,
+        "female": 66.9,
+        "range_age_core": "72-101",
+        "avg_age_core": 81.1,
+        "range_date_core": "1992-1996",
+        "median_date_core": 1994
+    },
+    {
+        "idtype": 0,
+        "exam": 24,
+        "n": 831,
+        "female": 67,
+        "range_age_core": "74-103",
+        "avg_age_core": 83,
+        "range_date_core": "1995-1998",
+        "median_date_core": 1997
+    },
+    {
+        "idtype": 0,
+        "exam": 25,
+        "n": 703,
+        "female": 67.7,
+        "range_age_core": "76-104",
+        "avg_age_core": 84.4,
+        "range_date_core": "1997-1999",
+        "median_date_core": 1998
+    },
+    {
+        "idtype": 0,
+        "exam": 26,
+        "n": 558,
+        "female": 69.9,
+        "range_age_core": "78-103",
+        "avg_age_core": 85.8,
+        "range_date_core": "1999-2001",
+        "median_date_core": 2000
+    },
+    {
+        "idtype": 0,
+        "exam": 27,
+        "n": 414,
+        "female": 70,
+        "range_age_core": "82-104",
+        "avg_age_core": 87.3,
+        "range_date_core": "2002-2003",
+        "median_date_core": 2002
+    },
+    {
+        "idtype": 0,
+        "exam": 28,
+        "n": 303,
+        "female": 68.3,
+        "range_age_core": "84-104",
+        "avg_age_core": 88.9,
+        "range_date_core": "2004-2005",
+        "median_date_core": 2004
+    },
+    {
+        "idtype": 0,
+        "exam": 29,
+        "n": 218,
+        "female": 72,
+        "range_age_core": "85-102",
+        "avg_age_core": 90.7,
+        "range_date_core": "2006-2007",
+        "median_date_core": 2006
+    },
+    {
+        "idtype": 0,
+        "exam": 30,
+        "n": 141,
+        "female": 75.2,
+        "range_age_core": "88-102",
+        "avg_age_core": 92.2,
+        "range_date_core": "2008-2010",
+        "median_date_core": 2009
+    },
+    {
+        "idtype": 0,
+        "exam": 31,
+        "n": 91,
+        "female": 81.3,
+        "range_age_core": "90-99",
+        "avg_age_core": 93.5,
+        "range_date_core": "2010-2011",
+        "median_date_core": 2011
+    },
+    {
+        "idtype": 0,
+        "exam": 32,
+        "n": 40,
+        "female": 82.5,
+        "range_age_core": "93-106",
+        "avg_age_core": 95.7,
+        "range_date_core": "2012-2014",
+        "median_date_core": 2013
+    },
+    {
+        "idtype": 1,
+        "exam": 1,
+        "n": 5124,
+        "female": 51.5,
+        "range_age_core": "5-70",
+        "avg_age_core": 36.3,
+        "range_date_core": "1971-1975",
+        "median_date_core": 1973
+    },
+    {
+        "idtype": 1,
+        "exam": 2,
+        "n": 3863,
+        "female": 51.6,
+        "range_age_core": "17-77",
+        "avg_age_core": 44.3,
+        "range_date_core": "1979-1983",
+        "median_date_core": 1981
+    },
+    {
+        "idtype": 1,
+        "exam": 3,
+        "n": 3873,
+        "female": 51.8,
+        "range_age_core": "18-77",
+        "avg_age_core": 48.5,
+        "range_date_core": "1983-1987",
+        "median_date_core": 1985
+    },
+    {
+        "idtype": 1,
+        "exam": 4,
+        "n": 4019,
+        "female": 51.8,
+        "range_age_core": "22-81",
+        "avg_age_core": 51.7,
+        "range_date_core": "1987-1991",
+        "median_date_core": 1989
+    },
+    {
+        "idtype": 1,
+        "exam": 5,
+        "n": 3799,
+        "female": 52.8,
+        "range_age_core": "26-84",
+        "avg_age_core": 55,
+        "range_date_core": "1991-1995",
+        "median_date_core": 1992
+    },
+    {
+        "idtype": 1,
+        "exam": 6,
+        "n": 3532,
+        "female": 53.1,
+        "range_age_core": "29-86",
+        "avg_age_core": 58.8,
+        "range_date_core": "1995-1998",
+        "median_date_core": 1997
+    },
+    {
+        "idtype": 1,
+        "exam": 7,
+        "n": 3539,
+        "female": 54.1,
+        "range_age_core": "33-90",
+        "avg_age_core": 61.5,
+        "range_date_core": "1998-2001",
+        "median_date_core": 1999
+    },
+    {
+        "idtype": 1,
+        "exam": 8,
+        "n": 3021,
+        "female": 55,
+        "range_age_core": "40-93",
+        "avg_age_core": 66.8,
+        "range_date_core": "2005-2008",
+        "median_date_core": 2006
+    },
+    {
+        "idtype": 1,
+        "exam": 9,
+        "n": 2430,
+        "female": 55.6,
+        "range_age_core": "46-98",
+        "avg_age_core": 71.2,
+        "range_date_core": "2011-2014",
+        "median_date_core": 2012
+    },
+    {
+        "idtype": 1,
+        "exam": 10,
+        "n": 1501,
+        "female": 56.2,
+        "range_age_core": "55-102",
+        "avg_age_core": 77,
+        "range_date_core": "2019-2022",
+        "median_date_core": 2021
+    },
+    {
+        "idtype": 2,
+        "exam": 1,
+        "n": 103,
+        "female": 54.4,
+        "range_age_core": "47-85",
+        "avg_age_core": 65.1,
+        "range_date_core": "2003-2005",
+        "median_date_core": 2004
+    },
+    {
+        "idtype": 2,
+        "exam": 2,
+        "n": 68,
+        "female": 54.4,
+        "range_age_core": "53-90",
+        "avg_age_core": 69.6,
+        "range_date_core": "2008-2011",
+        "median_date_core": 2010
+    },
+    {
+        "idtype": 2,
+        "exam": 3,
+        "n": 56,
+        "female": 55.4,
+        "range_age_core": "60-93",
+        "avg_age_core": 74.8,
+        "range_date_core": "2016-2019",
+        "median_date_core": 2017
+    },
+    {
+        "idtype": 3,
+        "exam": 1,
+        "n": 4095,
+        "female": 53.3,
+        "range_age_core": "19-72",
+        "avg_age_core": 40.2,
+        "range_date_core": "2002-2005",
+        "median_date_core": 2003
+    },
+    {
+        "idtype": 3,
+        "exam": 2,
+        "n": 3411,
+        "female": 53,
+        "range_age_core": "24-78",
+        "avg_age_core": 46.5,
+        "range_date_core": "2008-2011",
+        "median_date_core": 2009
+    },
+    {
+        "idtype": 3,
+        "exam": 3,
+        "n": 3171,
+        "female": 53.6,
+        "range_age_core": "32-84",
+        "avg_age_core": 54.2,
+        "range_date_core": "2016-2019",
+        "median_date_core": 2017
+    },
+    {
+        "idtype": 7,
+        "exam": 5,
+        "n": 506,
+        "female": 58.1,
+        "range_age_core": "27-78",
+        "avg_age_core": 51.5,
+        "range_date_core": "1994-1998",
+        "median_date_core": 1996
+    },
+    {
+        "idtype": 7,
+        "exam": 7,
+        "n": 404,
+        "female": 59.4,
+        "range_age_core": "33-83",
+        "avg_age_core": 55.4,
+        "range_date_core": "1999-2001",
+        "median_date_core": 2000
+    },
+    {
+        "idtype": 7,
+        "exam": 8,
+        "n": 297,
+        "female": 62.3,
+        "range_age_core": "39-89",
+        "avg_age_core": 61.9,
+        "range_date_core": "2007-2008",
+        "median_date_core": 2007
+    },
+    {
+        "idtype": 7,
+        "exam": 9,
+        "n": 300,
+        "female": 60,
+        "range_age_core": "44-88",
+        "avg_age_core": 66.2,
+        "range_date_core": "2011-2014",
+        "median_date_core": 2012
+    },
+    {
+        "idtype": 7,
+        "exam": 10,
+        "n": 196,
+        "female": 60.2,
+        "range_age_core": "52-96",
+        "avg_age_core": 72.5,
+        "range_date_core": "2019-2022",
+        "median_date_core": 2021
+    },
+    {
+        "idtype": 72,
+        "exam": 1,
+        "n": 410,
+        "female": 56.6,
+        "range_age_core": "20-80",
+        "avg_age_core": 42.5,
+        "range_date_core": "2003-2005",
+        "median_date_core": 2004
+    },
+    {
+        "idtype": 72,
+        "exam": 2,
+        "n": 321,
+        "female": 55.1,
+        "range_age_core": "25-85",
+        "avg_age_core": 48,
+        "range_date_core": "2009-2011",
+        "median_date_core": 2010
+    },
+    {
+        "idtype": 72,
+        "exam": 3,
+        "n": 294,
+        "female": 55.8,
+        "range_age_core": "32-89",
+        "avg_age_core": 54.1,
+        "range_date_core": "2016-2019",
+        "median_date_core": 2017
+    }
+]
